@@ -6,7 +6,7 @@ $this->title = 'The Venture Capital Open Data Initiative';
 ?>
 <div class="site-index">
     <div class="jumbotron" style="padding-top: 0; padding-bottom: 0; margin-bottom: 0;">
-        <h2>The Venture Capital Open Data Initiative</h2>
+        <h2>The Venture Capital Open Data Project</h2>
         <p class="lead">Because all founders have the right to equal access.</p>
     </div>
     <div class="body-content">
