@@ -2,7 +2,7 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'My Yii Application';
+$this->title = 'The Venture Capital Open Data Initiative';
 ?>
 <div class="site-index">
     <div class="jumbotron" style="padding-top: 0; padding-bottom: 0; margin-bottom: 0;">
